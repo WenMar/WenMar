@@ -11,7 +11,7 @@ I began learning the basics of HTML, CSS, and JavaScript because I wanted to cod
 
 A bit about me: I was born in Cuba, grew up in Italy, and studied in the UK. I've been a solo traveler for many years and have explored over 20 countries 🌍
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 | First Header  | Second Header |
