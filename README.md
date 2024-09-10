@@ -22,7 +22,7 @@ Here I document some of my coding projects.
 
 | Project link | Areas | Project Description | Libraries |
 | :---         |     :---:      |          ---: | :---         |
-| git status   | git status     | git status    | git status   |
+| 🔍📝        | Web Scraping    | Scraped and analysed customer review data to uncover findings    |   Pandas\ BeautifulSoup   |
 | git diff     | git diff       | git diff      | git diff     |
 
 
