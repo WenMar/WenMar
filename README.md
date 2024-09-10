@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 Hi there! I'm Wendy 🌟
 
@@ -13,12 +13,12 @@ A bit about me: I was born in Cuba, grew up in Italy, and studied in the UK. I'v
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Welcome to my portfolio 
+## Welcome to my portfolio 
 
 Here I document some of my coding projects. 
 
 
-# Python 
+## Python 
 
 | Project link | Areas | Project Description | Libraries |
 | :---         |     :---:      |          ---: | :---         |
