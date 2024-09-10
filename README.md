@@ -23,7 +23,7 @@ Here I document some of my coding projects.
 | Project link | Areas | Project Description | Libraries |
 | :---         |     :---:      |          ---: | :---         |
 |  [🔍📝](https://github.com/WenMar/Web_Scraping_Reviews_British_Airways)        | Web Scraping    | Scraped and analysed customer review data to uncover findings    |   Pandas - BeautifulSoup   |
-| git diff     | git diff       | git diff      | git diff     |
+| [🛒](https://github.com/WenMar/Customer_Prediction_British_Airways)     | EDA - Machine Learning      | Build a predictive model to understand factors that influence buying behaviour.| Pandas - numpy - seaborn - scipy.stats - sklearn    |
 | [🔍📖](https://github.com/WenMar/Web_Scraping_Quotes)     | Web Scraping     | Web Scraped the quotes and respective authors of the following website: https://quotes.toscrape.com/      | BeautifulSoup     |
 | [📈💰](https://github.com/WenMar/Cryptocurrency_price_portfolio_tracker)     | API handling       | This program helps investors identify which cryptocurrencies in their portfolio have generated profits.      | -  |
 
