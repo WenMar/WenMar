@@ -13,11 +13,17 @@ A bit about me: I was born in Cuba, grew up in Italy, and studied in the UK. I'v
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Welcome to my portfolio 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Here I document some of my coding projects. 
+
+
+# Python 
+
+| Project link | Areas | Project Description | Libraries |
+| :---         |     :---:      |          ---: | :---         |
+| git status   | git status     | git status    | git status   |
+| git diff     | git diff       | git diff      | git diff     |
 
 
 <!--
