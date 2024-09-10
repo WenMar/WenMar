@@ -22,7 +22,7 @@ Here I document some of my coding projects.
 
 | Project link | Areas | Project Description | Libraries |
 | :---         |     :---:      |          ---: | :---         |
-|  [ 📝 ] (https://github.com/WenMar/Web_Scraping_Reviews_British_Airways)        | Web Scraping    | Scraped and analysed customer review data to uncover findings    |   Pandas - BeautifulSoup   |
+|  [📝](https://github.com/WenMar/Web_Scraping_Reviews_British_Airways)        | Web Scraping    | Scraped and analysed customer review data to uncover findings    |   Pandas - BeautifulSoup   |
 | git diff     | git diff       | git diff      | git diff     |
 
 
