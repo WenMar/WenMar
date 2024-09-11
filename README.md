@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi there! I'm Wendy 🌟
+I'm Wendy 🌟
 
 I’m currently transitioning from UX research to a career in data science.
 
