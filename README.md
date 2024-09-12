@@ -2,7 +2,7 @@
 
 I'm Wendy 🌟
 
-I’m currently transitioning from UX research to a career in data science.
+A UX researcher turned data scientist.
 
 For the past year, I have been getting my hands dirty with coding and have recently started my GitHub profile. Hopefully, there will be more to see here in the next few months! 🚀
 
