@@ -6,7 +6,7 @@ A UX researcher turned data scientist.
 
 For the past year, I have been getting my hands dirty with coding and have recently started my GitHub profile. Hopefully, there will be more to see here in the next few months! 🚀
 
-I began my coding journey at university during my MSc in Human-Computer Interaction, where I learned the basics of HTML, CSS, JavaScript, and Python. I also completed several courses in web development and am now finishing a bootcamp in machine learning.
+I began my coding journey at university during my MSc in Human-Computer Interaction, where I learned the basics of HTML, CSS, JavaScript, and Python. I also completed several courses in web development and recently finished a nanodegree in machine learning.
 
 Throughout my work experience in the UX field, I realised that I am truly passionate about how data can reveal patterns and insights that drive decision-making. While UX research has provided me with a strong foundation in understanding user behaviour, I am eager to dive deeper into quantitative analysis and predictive modelling to achieve a holistic view of problems and deliver data-driven insights.
 
