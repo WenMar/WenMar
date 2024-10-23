@@ -23,12 +23,12 @@ Here I document some of my coding projects.
 
 | Project link | Areas | Project Description | Libraries |
 | :---         |     :---:      |          ---: | :---         |
-| [🔍🛒](https://github.com/WenMar/Customer_Prediction_British_Airways)     | EDA - Machine Learning      | Build a predictive model to understand factors that influence buying behaviour.| Pandas - numpy - seaborn - scipy.stats - sklearn    |
-|  [🔍📝](https://github.com/WenMar/Web_Scraping_Reviews_British_Airways)        | Web Scraping   Sentiment Analysis   | Scraped and analysed customer review data to understand how customers feel about British Airways.    |   Pandas - BeautifulSoup   |
-| [🔍📖](https://github.com/WenMar/Web_Scraping_Quotes)     | Web Scraping     | Web Scraped the quotes and respective authors of the following website: https://quotes.toscrape.com/      | BeautifulSoup     |
-| [🔍🧠](https://github.com/WenMar/ML_for_Alzheimer-s_Disease)     | EDA - Machine Learning    | Comparing Machine Learning Algorithms for Alzheimer's Disease Classification     | Pandas - numpy - seaborn - scipy - sklearn  |
-| [📈🍷](https://github.com/WenMar/From-chemistry-to-quality)     | EDA - Machine Learning    | Explored different classification models to predict wine quality based on past customer ratings and various chemical properties of the wine.      | Pandas - numpy - seaborn - scipy - sklearn-  |
-| [📈💰](https://github.com/WenMar/Cryptocurrency_price_portfolio_tracker)     | API handling       | This program helps investors identify which cryptocurrencies in their portfolio have generated profits.      | -  |
+| [🛒](https://github.com/WenMar/Customer_Prediction_British_Airways)     | EDA - Machine Learning      | Build a predictive model to understand factors that influence buying behaviour.| Pandas - numpy - seaborn - scipy.stats - sklearn    |
+|  [📝](https://github.com/WenMar/Web_Scraping_Reviews_British_Airways)        | Web Scraping   Sentiment Analysis   | Scraped and analysed customer review data to understand how customers feel about British Airways.    |   Pandas - BeautifulSoup   |
+| [📖](https://github.com/WenMar/Web_Scraping_Quotes)     | Web Scraping     | Web Scraped the quotes and respective authors of the following website: https://quotes.toscrape.com/      | BeautifulSoup     |
+| [🧠](https://github.com/WenMar/ML_for_Alzheimer-s_Disease)     | EDA - Machine Learning    | Comparing Machine Learning Algorithms for Alzheimer's Disease Classification     | Pandas - numpy - seaborn - scipy - sklearn  |
+| [🍷](https://github.com/WenMar/From-chemistry-to-quality)     | EDA - Machine Learning    | Explored different classification models to predict wine quality based on past customer ratings and various chemical properties of the wine.      | Pandas - numpy - seaborn - scipy - sklearn-  |
+| [💰](https://github.com/WenMar/Cryptocurrency_price_portfolio_tracker)     | API handling       | This program helps investors identify which cryptocurrencies in their portfolio have generated profits.      | -  |
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
