@@ -2,8 +2,6 @@
 
 I'm Wendy 🌟
 
-A UX researcher turned data scientist.
-
 For the past year, I have been getting my hands dirty with coding and have recently started my GitHub profile. Hopefully, there will be more to see here in the next few months! 🚀
 
 I began my coding journey at university during my MSc in Human-Computer Interaction, where I learned the basics of HTML, CSS, JavaScript, and Python. I also completed several courses in web development and recently finished a nanodegree in machine learning.
